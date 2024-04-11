@@ -2,7 +2,7 @@
 
 ## Atenção
 <div class="alert alert-warning">
-⚠️ Certifique-se de ter o Apache Tomcat baixado e configurado no Eclipse.
+⚠️ Certifique-se de ter o **Apache Tomcat - 9.0** + **Java Servlet Specification - 4.0** baixado e configurado no Eclipse.
 </div>
 
 ## Como Rodar 🚀
