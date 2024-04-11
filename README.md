@@ -5,7 +5,7 @@
 ⚠️ Certifique-se de ter o Apache Tomcat baixado e configurado no Eclipse.
 </div>
 
-## Como Rodar🚀
+## Como Rodar 🚀
 
 ### Passo 1: Criar um projeto Dynamic Web
 1. Crie um projeto "Dynamic Web Project" em sua IDE.
@@ -27,6 +27,6 @@
 <img src="https://github.com/RICKBISPO/ERP-ELGH/assets/106879291/a8ead8c1-95e1-4b23-bac7-2a595778fa8f" alt="import">
 <br>
 
-## Observações
+## Observações ✏️
 
 Certifique-se de ter todas as dependências necessárias instaladas e configuradas corretamente antes de tentar executar o projeto.
