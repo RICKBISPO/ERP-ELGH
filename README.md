@@ -1,13 +1,9 @@
 # Projeto ERP-ELGH - ARQ.DEOO
 
 ## Atenção
-<div class="alert alert-warning">
 ⚠️ Certifique-se de ter o **Apache Tomcat - 9.0** + **Java Servlet Specification - 4.0** baixado e configurado no Eclipse.
-</div>
 
 ## Como Rodar 🚀
-
-**SEU MERDA**
 
 ### Passo 1: Criar um projeto Dynamic Web
 1. Crie um projeto "Dynamic Web Project" em sua IDE.
