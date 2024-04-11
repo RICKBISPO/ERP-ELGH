@@ -1,7 +1,7 @@
 # Projeto ERP-ELGH - ARQ.DEOO
 
 <div class="alert alert-warning">
-⚠️ **Atenção:** Certifique-se de ter o Apache Tomcat baixado e configurado no Eclipse.
+⚠️ Certifique-se de ter o Apache Tomcat baixado e configurado no Eclipse.
 </div>
 
 
