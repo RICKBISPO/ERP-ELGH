@@ -5,7 +5,7 @@
 ⚠️ Certifique-se de ter o Apache Tomcat baixado e configurado no Eclipse.
 </div>
 
-## Como Rodar
+## Como Rodar🚀
 
 ### Passo 1: Criar um projeto Dynamic Web
 1. Crie um projeto "Dynamic Web Project" em sua IDE.
