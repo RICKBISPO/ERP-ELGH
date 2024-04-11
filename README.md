@@ -1,4 +1,4 @@
-# Projeto ERP-ELGH - ARQ.DEOO
+# Projeto ERP-ELGH - IFSP.TSI.ARQ.DEOO
 
 ## Atenção
 ⚠️ Certifique-se de ter o **Apache Tomcat - 9.0** baixado e configurado no Eclipse.
