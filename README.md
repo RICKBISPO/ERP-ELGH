@@ -7,6 +7,8 @@
 
 ## Como Rodar 🚀
 
+**SEU MERDA**
+
 ### Passo 1: Criar um projeto Dynamic Web
 1. Crie um projeto "Dynamic Web Project" em sua IDE.
 
