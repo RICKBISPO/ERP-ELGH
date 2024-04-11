@@ -22,9 +22,9 @@
 <br>
 <img src="https://github.com/RICKBISPO/ERP-ELGH/assets/106879291/70551ab3-6abf-49e4-b219-ebd0efc9da57" alt="dynamic" width="607px" height="613px">
 <br>
-<img src="https://github.com/RICKBISPO/ERP-ELGH/assets/106879291/ae236db2-41d6-4db2-bae8-b4e3975d14be" alt="select">
+<img src="https://github.com/RICKBISPO/ERP-ELGH/assets/106879291/ae236db2-41d6-4db2-bae8-b4e3975d14be" alt="select width="607px" height="613px">
 <br>
-<img src="https://github.com/RICKBISPO/ERP-ELGH/assets/106879291/a8ead8c1-95e1-4b23-bac7-2a595778fa8f" alt="import">
+<img src="https://github.com/RICKBISPO/ERP-ELGH/assets/106879291/a8ead8c1-95e1-4b23-bac7-2a595778fa8f" alt="import width="607px" height="613px">
 <br>
 
 ## Observações ✏️
