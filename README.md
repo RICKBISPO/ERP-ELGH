@@ -1,7 +1,7 @@
 # Projeto ERP-ELGH - ARQ.DEOO
 
 ## Atenção
-⚠️ Certifique-se de ter o **Apache Tomcat - 9.0** + **Java Servlet Specification - 4.0** baixado e configurado no Eclipse.
+⚠️ Certifique-se de ter o **Apache Tomcat - 9.0** baixado e configurado no Eclipse.
 
 ## Como Rodar 🚀
 
